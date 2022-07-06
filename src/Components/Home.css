@@ -1,0 +1,26 @@
+.home-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+    background: rgb(227, 248, 248);
+}
+.home-container h2{
+    font-size: 45px;
+    font-weight: 400;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.home-container a{
+    text-decoration: none;
+    font-size: 20px;
+    color: whitesmoke;
+    background: cyan;
+    text-align: center;
+    font-weight: bold;
+   border-radius: 12px;
+    padding: 6px 20px;
+}
+.btn-center{
+   margin-left: 250px;
+}

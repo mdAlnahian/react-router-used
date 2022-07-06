@@ -1,0 +1,19 @@
+
+.nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(221, 234, 234);
+}
+
+.nav-links a {
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 18px;
+  font-weight: 400;
+  color: black;
+}
+
+
+
+

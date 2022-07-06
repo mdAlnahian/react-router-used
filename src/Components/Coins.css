@@ -1,0 +1,9 @@
+.text-container{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+.all-coins{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+}
